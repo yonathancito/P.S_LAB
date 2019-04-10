@@ -11,6 +11,7 @@ Macro, como una funcion, pero es mas rapido
 ya que se ahorra el llamado a una funcion
 */
 #define CUBO(a)a*a*a
+
 int main(){
     int suma;
     suma=PI+3;
