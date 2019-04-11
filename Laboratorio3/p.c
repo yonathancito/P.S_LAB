@@ -1,9 +1,12 @@
 #include <stdio.h>
 int main(){
+    /*espacio*/
+    /*letras*/
+    /*Que letra se repitio mas*/
     /*
     int c;
     printf("Ingrese\n");
-    c=getchar();
+    getchar(c);
     putchar(c);
     */
     /*puts y gets*/
@@ -11,6 +14,4 @@ int main(){
     printf("Ingrese\n");
     gets(arreglo);
     puts(arreglo);
-
-    
 }
